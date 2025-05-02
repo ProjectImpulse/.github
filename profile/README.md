@@ -1,6 +1,6 @@
-# Project Impulse [pi]
+# Project Impulse _[pi]_
 
-[pi] conducts research and develops products for financial management, equity research, and AI-driven investment strategies. Our work spans personal finance optimization, market trend analysis, and algorithmic trading systems, aiming to provide users with data-driven insights and empowerment.
+_[pi]_ conducts research and develops products for financial management, equity research, and AI-driven investment strategies. Our work spans personal finance optimization, market trend analysis, and algorithmic trading systems, aiming to provide users with data-driven insights and empowerment.
 
 💡 Learn more about our work and read our publications on [our website](https://blog.kuberapp.net/).
 
